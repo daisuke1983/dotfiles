@@ -16,4 +16,4 @@ description: Create a git commit
 
 ## Your task
 
-Based on the above changes, create a single git commit.
+Based on the above changes, create a single git commit and push it.
