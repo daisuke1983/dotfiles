@@ -1,2 +1,1 @@
 # Check Client Code Quality
-
