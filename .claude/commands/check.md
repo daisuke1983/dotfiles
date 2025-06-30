@@ -9,4 +9,3 @@ If any have not been done yet, please do them **now**.
 - Run `lint` to check for remaining lint errors
 - Run TypeScript `type-check` to ensure type correctness
 - Ensure all tests pass successfully
-- E2EテストのセレクタはIDを使っている
